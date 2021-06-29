@@ -1,1 +1,2 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+您可以使用微信小程序扫码，对涂鸦智能小程序进行体验：如果在设备列表中显示没有设备，可以点击 “添加设备”，选择“扫码配网”，扫描下面的二维码，即可体验设备。
